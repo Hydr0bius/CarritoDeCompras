@@ -91,7 +91,7 @@ ul {
     display: block;
     text-indent: -9999px;
     width: 50px;
-    background-image: url(../img/lupa.png);
+    background-image: url(../image/lupa.png);
     background-position: right center;
     background-repeat: no-repeat;
     border:none;
@@ -125,13 +125,13 @@ ul {
     }
 }
 .icono1 {
-    background-image: url(../img/icono1.png);
+    background-image: url(../image/icono1.png);
 }
 .icono2 {
-    background-image: url(../img/icono2.png);
+    background-image: url(../image/icono2.png);
 }
 .icono3 {
-    background-image: url(../img/icono3.png);
+    background-image: url(../image/icono3.png);
 }
 
 #lista-cursos .row {
